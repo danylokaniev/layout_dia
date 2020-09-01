@@ -1,0 +1,42 @@
+.expertise {
+  width: 100%;
+  margin-top: 122px;
+  display: flex;
+  justify-content: space-between;
+
+  &__highlight {
+
+    position: absolute;
+    top: 128px;
+    left: 520px;
+    font-weight: 600;
+    font-size: 52px;
+    text-align: center;
+    color: #253757;
+
+    padding: 10px 50px;
+  }
+}
+@media screen and (max-width: 999px) {
+  .expertise {
+    flex-direction: column;
+    align-items: center;
+
+    padding: 50px;
+
+    &__highlight {
+
+      position: absolute;
+      top: 50px;
+      left: 55px;
+      font-weight: 600;
+      font-size: 48px;
+      text-align: center;
+      color: #253757;
+
+      padding: 15px 50px;
+
+
+    }
+  }
+}

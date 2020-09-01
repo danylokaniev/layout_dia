@@ -1,1 +1,82 @@
-$c-gray: #eee;
+//dark
+$main: #2C2C2C;
+$additional: #2060F6;
+
+//light
+//$main: #008AFF;
+//$additional: #FF9C8E;
+//
+
+$background-white: #fff;
+$background-gray: #f2f6fa;
+
+$hover-duration: 0.5s;
+
+$card-standart: #2060F6;
+$card-standart-background:rgba(32, 96, 246, 0.1);
+
+$card-blue: $card-standart;
+$card-blue-background: $card-standart-background;
+$card-yellow: $card-standart;
+$card-yellow-background: $card-standart-background;
+$card-green: $card-standart;
+$card-green-background: $card-standart-background;
+$card-red: $card-standart;
+$card-red-background: $card-standart-background;
+
+
+//$card-blue: #56CCF2;
+//$card-blue-background: rgba(86, 204, 242, 0.1);
+//$card-yellow: #FCC91D;
+//$card-yellow-background: rgba(252, 201, 29, 0.1);
+//$card-green: #15D850;
+//$card-green-background: rgba(21, 216, 80, 0.1);
+//$card-red: #F36363;
+//$card-red-background: rgba(243, 99, 99, 0.1);
+//
+//
+//.body__dark {
+//  $main: #2C2C2C;
+//  $additional: #2060F6;
+//
+//  $background-white: #fff;
+//  $background-gray: #f2f6fa;
+//
+//  $hover-duration: 0.5s;
+//
+//  $card-standart: #2060F6;
+//  $card-standart-background:rgba(32, 96, 246, 0.1);
+//
+//  $card-blue: $card-standart;
+//  $card-blue-background: $card-standart-background;
+//  $card-yellow: $card-standart;
+//  $card-yellow-background: $card-standart-background;
+//  $card-green: $card-standart;
+//  $card-green-background: $card-standart-background;
+//  $card-red: $card-standart;
+//  $card-red-background: $card-standart-background;
+//
+//}
+//
+//.body__light {
+//  $main: #008AFF;
+//  $additional: #FF9C8E;
+//
+//  $background-white: #fff;
+//  $background-gray: #f2f6fa;
+//
+//  $hover-duration: 0.5s;
+//
+//  $card-standart: #2060F6;
+//  $card-standart-background:rgba(32, 96, 246, 0.1);
+//
+//  $card-blue: #56CCF2;
+//  $card-blue-background: rgba(86, 204, 242, 0.1);
+//  $card-yellow: #FCC91D;
+//  $card-yellow-background: rgba(252, 201, 29, 0.1);
+//  $card-green: #15D850;
+//  $card-green-background: rgba(21, 216, 80, 0.1);
+//  $card-red: #F36363;
+//  $card-red-background: rgba(243, 99, 99, 0.1);
+//
+//}

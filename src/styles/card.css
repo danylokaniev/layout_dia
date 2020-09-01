@@ -1,0 +1,23 @@
+.card-exp {
+  width: 264px;
+  height: 334px;
+}
+.card__photo {
+  width: 184px;
+  height: 166px;
+  border-radius: 8px;
+}
+.card__photo_1 {
+  background-image: url("../images/what-we-do/what-we-do-1.jpg");
+  background-size: cover;
+}
+.card__photo_2 {
+  background-image: url("../images/what-we-do/what-we-do-2.jpg");
+  background-size: cover;
+}
+.card__photo_3 {
+  background-image: url("../images/what-we-do/what-we-do-3.jpg");
+  background-size: cover;
+}
+
+/*# sourceMappingURL=card.css.map */

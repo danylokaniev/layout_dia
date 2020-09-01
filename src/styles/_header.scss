@@ -1,0 +1,11 @@
+.header {
+  height: 120px;
+  background-color: $main;
+  padding: 48px 14% 0 ;
+
+}
+@media screen and (max-width: 999px) {
+  .header {
+    height: 100%;
+  }
+}

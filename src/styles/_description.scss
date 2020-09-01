@@ -1,0 +1,22 @@
+.desription {
+  padding: 0 196px;
+
+  &__highlight {
+    font-weight: 600;
+    font-size: 32px;
+    color: #253757;
+    margin-bottom: 16px;
+  }
+
+  &__text {
+    font-weight: 600;
+    font-size: 24px;
+    color: #6C788B;
+  }
+}
+
+@media screen and (max-width: 999px) {
+  .desription {
+    padding: 0 15%;
+  }
+}
